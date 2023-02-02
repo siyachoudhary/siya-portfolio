@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/siya-portfolio/static/css/main.2dfc67e6.css",
-    "main.js": "/siya-portfolio/static/js/main.e9a88027.js",
+    "main.css": "/siya-portfolio/static/css/main.fc2fb0ca.css",
+    "main.js": "/siya-portfolio/static/js/main.f1e87dc8.js",
     "static/js/787.28a6522c.chunk.js": "/siya-portfolio/static/js/787.28a6522c.chunk.js",
     "static/media/coffee.png": "/siya-portfolio/static/media/coffee.81bf5f7310a1a155d98f.png",
     "static/media/myImg 2.png": "/siya-portfolio/static/media/myImg 2.d05276d74a817378c842.png",
@@ -38,12 +38,12 @@
     "static/media/logo.png": "/siya-portfolio/static/media/logo.9f2af90aa580952b9884.png",
     "static/media/youtube.png": "/siya-portfolio/static/media/youtube.9c1034a72f35a85893bb.png",
     "index.html": "/siya-portfolio/index.html",
-    "main.2dfc67e6.css.map": "/siya-portfolio/static/css/main.2dfc67e6.css.map",
-    "main.e9a88027.js.map": "/siya-portfolio/static/js/main.e9a88027.js.map",
+    "main.fc2fb0ca.css.map": "/siya-portfolio/static/css/main.fc2fb0ca.css.map",
+    "main.f1e87dc8.js.map": "/siya-portfolio/static/js/main.f1e87dc8.js.map",
     "787.28a6522c.chunk.js.map": "/siya-portfolio/static/js/787.28a6522c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2dfc67e6.css",
-    "static/js/main.e9a88027.js"
+    "static/css/main.fc2fb0ca.css",
+    "static/js/main.f1e87dc8.js"
   ]
 }
