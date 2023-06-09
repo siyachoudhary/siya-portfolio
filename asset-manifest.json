@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/siya-portfolio/static/css/main.fc2fb0ca.css",
+    "main.css": "/siya-portfolio/static/css/main.3f90c37b.css",
     "main.js": "/siya-portfolio/static/js/main.ca0ac22a.js",
     "static/js/787.28a6522c.chunk.js": "/siya-portfolio/static/js/787.28a6522c.chunk.js",
     "static/media/coffee.png": "/siya-portfolio/static/media/coffee.81bf5f7310a1a155d98f.png",
@@ -39,12 +39,12 @@
     "static/media/logo.png": "/siya-portfolio/static/media/logo.9f2af90aa580952b9884.png",
     "static/media/youtube.png": "/siya-portfolio/static/media/youtube.9c1034a72f35a85893bb.png",
     "index.html": "/siya-portfolio/index.html",
-    "main.fc2fb0ca.css.map": "/siya-portfolio/static/css/main.fc2fb0ca.css.map",
+    "main.3f90c37b.css.map": "/siya-portfolio/static/css/main.3f90c37b.css.map",
     "main.ca0ac22a.js.map": "/siya-portfolio/static/js/main.ca0ac22a.js.map",
     "787.28a6522c.chunk.js.map": "/siya-portfolio/static/js/787.28a6522c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc2fb0ca.css",
+    "static/css/main.3f90c37b.css",
     "static/js/main.ca0ac22a.js"
   ]
 }
