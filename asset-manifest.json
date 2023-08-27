@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/siya-portfolio/static/css/main.b1d40850.css",
-    "main.js": "/siya-portfolio/static/js/main.15fd4418.js",
+    "main.js": "/siya-portfolio/static/js/main.15c18cae.js",
     "static/js/787.28a6522c.chunk.js": "/siya-portfolio/static/js/787.28a6522c.chunk.js",
     "static/media/coffee.png": "/siya-portfolio/static/media/coffee.81bf5f7310a1a155d98f.png",
     "static/media/myImg 2.png": "/siya-portfolio/static/media/myImg 2.d05276d74a817378c842.png",
@@ -9,6 +9,7 @@
     "static/media/dealOrNoDeal.png": "/siya-portfolio/static/media/dealOrNoDeal.fd01192534a60ade4451.png",
     "static/media/frogger.png": "/siya-portfolio/static/media/frogger.2e7b529d2a0898bcef02.png",
     "static/media/flowers.jpeg": "/siya-portfolio/static/media/flowers.09fd55557a1765af94a0.jpeg",
+    "static/media/ecoventure.png": "/siya-portfolio/static/media/ecoventure.78c160867e01175003a0.png",
     "static/media/fullFace.png": "/siya-portfolio/static/media/fullFace.020b8a3d76e41ed72e72.png",
     "static/media/coffeeavacado.jpeg": "/siya-portfolio/static/media/coffeeavacado.58b78e12f3261327c4d2.jpeg",
     "static/media/Paris.jpeg": "/siya-portfolio/static/media/Paris.f849ca227c71f4d2178b.jpeg",
@@ -40,11 +41,11 @@
     "static/media/youtube.png": "/siya-portfolio/static/media/youtube.9c1034a72f35a85893bb.png",
     "index.html": "/siya-portfolio/index.html",
     "main.b1d40850.css.map": "/siya-portfolio/static/css/main.b1d40850.css.map",
-    "main.15fd4418.js.map": "/siya-portfolio/static/js/main.15fd4418.js.map",
+    "main.15c18cae.js.map": "/siya-portfolio/static/js/main.15c18cae.js.map",
     "787.28a6522c.chunk.js.map": "/siya-portfolio/static/js/787.28a6522c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d40850.css",
-    "static/js/main.15fd4418.js"
+    "static/js/main.15c18cae.js"
   ]
 }
