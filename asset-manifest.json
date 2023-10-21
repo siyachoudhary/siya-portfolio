@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/siya-portfolio/static/css/main.991e25ce.css",
-    "main.js": "/siya-portfolio/static/js/main.7dc208d5.js",
+    "main.js": "/siya-portfolio/static/js/main.59c7ad5c.js",
     "static/js/787.28a6522c.chunk.js": "/siya-portfolio/static/js/787.28a6522c.chunk.js",
     "static/media/coffee.png": "/siya-portfolio/static/media/coffee.81bf5f7310a1a155d98f.png",
     "static/media/myImg 2.png": "/siya-portfolio/static/media/myImg 2.d05276d74a817378c842.png",
@@ -35,17 +35,18 @@
     "static/media/billiewater.jpeg": "/siya-portfolio/static/media/billiewater.d693dc6a449f5dbc6025.jpeg",
     "static/media/cancer.png": "/siya-portfolio/static/media/cancer.6c82b089669942816706.png",
     "static/media/rightImg.png": "/siya-portfolio/static/media/rightImg.60eb546788311dfd6593.png",
+    "static/media/rfw.png": "/siya-portfolio/static/media/rfw.58f14d68ccc71b599264.png",
     "static/media/blue.jpeg": "/siya-portfolio/static/media/blue.d9c156984dd0bff3ec3f.jpeg",
     "static/media/studyHive.PNG": "/siya-portfolio/static/media/studyHive.47ed5d8cc4ed21dda57b.PNG",
     "static/media/logo.png": "/siya-portfolio/static/media/logo.9f2af90aa580952b9884.png",
     "static/media/youtube.png": "/siya-portfolio/static/media/youtube.9c1034a72f35a85893bb.png",
     "index.html": "/siya-portfolio/index.html",
     "main.991e25ce.css.map": "/siya-portfolio/static/css/main.991e25ce.css.map",
-    "main.7dc208d5.js.map": "/siya-portfolio/static/js/main.7dc208d5.js.map",
+    "main.59c7ad5c.js.map": "/siya-portfolio/static/js/main.59c7ad5c.js.map",
     "787.28a6522c.chunk.js.map": "/siya-portfolio/static/js/787.28a6522c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.991e25ce.css",
-    "static/js/main.7dc208d5.js"
+    "static/js/main.59c7ad5c.js"
   ]
 }
