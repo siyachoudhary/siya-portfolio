@@ -1,16 +1,22 @@
 {
   "files": {
     "main.css": "/siya-portfolio/static/css/main.991e25ce.css",
-    "main.js": "/siya-portfolio/static/js/main.2bf123f0.js",
+    "main.js": "/siya-portfolio/static/js/main.185eda17.js",
     "static/js/787.28a6522c.chunk.js": "/siya-portfolio/static/js/787.28a6522c.chunk.js",
+    "static/media/lemon.gif": "/siya-portfolio/static/media/lemon.e34b817117f1816ea189.gif",
+    "static/media/girl.gif": "/siya-portfolio/static/media/girl.60b50f9293a3486f82ef.gif",
+    "static/media/drip.gif": "/siya-portfolio/static/media/drip.1e62928077c5ec24e760.gif",
     "static/media/coffee.png": "/siya-portfolio/static/media/coffee.81bf5f7310a1a155d98f.png",
     "static/media/myImg 2.png": "/siya-portfolio/static/media/myImg 2.d05276d74a817378c842.png",
     "static/media/cloudgate.jpeg": "/siya-portfolio/static/media/cloudgate.b4387b876b1074e7563b.jpeg",
     "static/media/dealOrNoDeal.png": "/siya-portfolio/static/media/dealOrNoDeal.fd01192534a60ade4451.png",
+    "static/media/hungergamesletter.jpg": "/siya-portfolio/static/media/hungergamesletter.8220cd98a07d69cdc681.jpg",
     "static/media/frogger.png": "/siya-portfolio/static/media/frogger.2e7b529d2a0898bcef02.png",
+    "static/media/horse.jpeg": "/siya-portfolio/static/media/horse.8b724fbba28c0e3b4da3.jpeg",
     "static/media/hci.png": "/siya-portfolio/static/media/hci.5ec24a01a60601f96272.png",
     "static/media/flowers.jpeg": "/siya-portfolio/static/media/flowers.09fd55557a1765af94a0.jpeg",
     "static/media/ecoventure.png": "/siya-portfolio/static/media/ecoventure.78c160867e01175003a0.png",
+    "static/media/pinkflowersletter.jpg": "/siya-portfolio/static/media/pinkflowersletter.320a8a6daf0a9bbd82a9.jpg",
     "static/media/fullFace.png": "/siya-portfolio/static/media/fullFace.020b8a3d76e41ed72e72.png",
     "static/media/coffeeavacado.jpeg": "/siya-portfolio/static/media/coffeeavacado.58b78e12f3261327c4d2.jpeg",
     "static/media/Paris.jpeg": "/siya-portfolio/static/media/Paris.f849ca227c71f4d2178b.jpeg",
@@ -20,14 +26,17 @@
     "static/media/omni.png": "/siya-portfolio/static/media/omni.a4f47bc73d02869da418.png",
     "static/media/ross.jpeg": "/siya-portfolio/static/media/ross.33437f7feb976833d57c.jpeg",
     "static/media/chefs.jpeg": "/siya-portfolio/static/media/chefs.5b347a60fb9c8e079128.jpeg",
+    "static/media/hunger.jpeg": "/siya-portfolio/static/media/hunger.7fe8f824254849c8f3de.jpeg",
     "static/media/leftImg.png": "/siya-portfolio/static/media/leftImg.aa6c76e26f14dbef5472.png",
     "static/media/belle.jpeg": "/siya-portfolio/static/media/belle.f04b015f6333a9a9c123.jpeg",
     "static/media/bigHorse.jpg": "/siya-portfolio/static/media/bigHorse.29d74dccef16dedb4766.jpg",
     "static/media/katniss.jpg": "/siya-portfolio/static/media/katniss.83c7b43d709e508e277e.jpg",
     "static/media/yellow.jpeg": "/siya-portfolio/static/media/yellow.a24a2cf653181270f273.jpeg",
+    "static/media/billie2.jpeg": "/siya-portfolio/static/media/billie2.c7b5a0fd7065f819078a.jpeg",
     "static/media/clarke.jpeg": "/siya-portfolio/static/media/clarke.5e8ea8590e23fd123000.jpeg",
     "static/media/blindingLights.JPG": "/siya-portfolio/static/media/blindingLights.4757b2937e84a3a6d2c0.JPG",
     "static/media/window.jpg": "/siya-portfolio/static/media/window.1cae01ef654fb6bc1a79.jpg",
+    "static/media/holo.jpg": "/siya-portfolio/static/media/holo.6862c22f2647cf27776e.jpg",
     "static/media/blueHair.jpeg": "/siya-portfolio/static/media/blueHair.f202e3907b43bab4e9c4.jpeg",
     "static/media/Butterfly.jpeg": "/siya-portfolio/static/media/Butterfly.1316435cfcb9631bc3ce.jpeg",
     "static/media/dauntless.jpeg": "/siya-portfolio/static/media/dauntless.64ddc0c5b0cb5a58942e.jpeg",
@@ -43,11 +52,11 @@
     "static/media/youtube.png": "/siya-portfolio/static/media/youtube.9c1034a72f35a85893bb.png",
     "index.html": "/siya-portfolio/index.html",
     "main.991e25ce.css.map": "/siya-portfolio/static/css/main.991e25ce.css.map",
-    "main.2bf123f0.js.map": "/siya-portfolio/static/js/main.2bf123f0.js.map",
+    "main.185eda17.js.map": "/siya-portfolio/static/js/main.185eda17.js.map",
     "787.28a6522c.chunk.js.map": "/siya-portfolio/static/js/787.28a6522c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.991e25ce.css",
-    "static/js/main.2bf123f0.js"
+    "static/js/main.185eda17.js"
   ]
 }
