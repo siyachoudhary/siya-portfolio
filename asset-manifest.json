@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/siya-portfolio/static/css/main.56ee5b58.css",
-    "main.js": "/siya-portfolio/static/js/main.35019616.js",
+    "main.js": "/siya-portfolio/static/js/main.b6479445.js",
     "static/js/453.99938a43.chunk.js": "/siya-portfolio/static/js/453.99938a43.chunk.js",
     "static/media/lemon.gif": "/siya-portfolio/static/media/lemon.e34b817117f1816ea189.gif",
     "static/media/girl.gif": "/siya-portfolio/static/media/girl.60b50f9293a3486f82ef.gif",
     "static/media/drip.gif": "/siya-portfolio/static/media/drip.1e62928077c5ec24e760.gif",
     "static/media/coffee.png": "/siya-portfolio/static/media/coffee.81bf5f7310a1a155d98f.png",
+    "static/media/hobbit.JPG": "/siya-portfolio/static/media/hobbit.eb01fda17a3e655da87d.JPG",
     "static/media/cloudgate.jpeg": "/siya-portfolio/static/media/cloudgate.b4387b876b1074e7563b.jpeg",
     "static/media/dealOrNoDeal.png": "/siya-portfolio/static/media/dealOrNoDeal.fd01192534a60ade4451.png",
     "static/media/hungergamesletter.jpg": "/siya-portfolio/static/media/hungergamesletter.8220cd98a07d69cdc681.jpg",
@@ -20,6 +21,7 @@
     "static/media/Paris.jpeg": "/siya-portfolio/static/media/Paris.f849ca227c71f4d2178b.jpeg",
     "static/media/pets.png": "/siya-portfolio/static/media/pets.3f34c6388383e34aa859.png",
     "static/media/hci.png": "/siya-portfolio/static/media/hci.71cb88bde5e0644d5597.png",
+    "static/media/blender.jpeg": "/siya-portfolio/static/media/blender.3993e90563de642a17c6.jpeg",
     "static/media/quizzania.png": "/siya-portfolio/static/media/quizzania.cc667fba64277e952557.png",
     "static/media/flux.png": "/siya-portfolio/static/media/flux.9a56de6756e026a228ff.png",
     "static/media/hatter.jpeg": "/siya-portfolio/static/media/hatter.db34b9e2ce666db27ad5.jpeg",
@@ -49,14 +51,15 @@
     "static/media/rfw.png": "/siya-portfolio/static/media/rfw.58f14d68ccc71b599264.png",
     "static/media/blue.jpeg": "/siya-portfolio/static/media/blue.d9c156984dd0bff3ec3f.jpeg",
     "static/media/logo.png": "/siya-portfolio/static/media/logo.9f2af90aa580952b9884.png",
+    "static/media/3Horses.jpg": "/siya-portfolio/static/media/3Horses.333d35c7968193deb1b1.jpg",
     "static/media/youtube.png": "/siya-portfolio/static/media/youtube.9c1034a72f35a85893bb.png",
     "index.html": "/siya-portfolio/index.html",
     "main.56ee5b58.css.map": "/siya-portfolio/static/css/main.56ee5b58.css.map",
-    "main.35019616.js.map": "/siya-portfolio/static/js/main.35019616.js.map",
+    "main.b6479445.js.map": "/siya-portfolio/static/js/main.b6479445.js.map",
     "453.99938a43.chunk.js.map": "/siya-portfolio/static/js/453.99938a43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56ee5b58.css",
-    "static/js/main.35019616.js"
+    "static/js/main.b6479445.js"
   ]
 }
