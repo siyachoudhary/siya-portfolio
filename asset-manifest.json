@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/siya-portfolio/static/css/main.3484e2de.css",
-    "main.js": "/siya-portfolio/static/js/main.57ecb6ea.js",
+    "main.js": "/siya-portfolio/static/js/main.593d92e5.js",
     "static/js/453.99938a43.chunk.js": "/siya-portfolio/static/js/453.99938a43.chunk.js",
     "static/media/lemon.gif": "/siya-portfolio/static/media/lemon.e34b817117f1816ea189.gif",
     "static/media/girl.gif": "/siya-portfolio/static/media/girl.60b50f9293a3486f82ef.gif",
@@ -19,6 +19,7 @@
     "static/media/pinkflowersletter.jpg": "/siya-portfolio/static/media/pinkflowersletter.320a8a6daf0a9bbd82a9.jpg",
     "static/media/dogWindow.jpg": "/siya-portfolio/static/media/dogWindow.9581aff60aeaeb04d4f9.jpg",
     "static/media/fullFace.png": "/siya-portfolio/static/media/fullFace.020b8a3d76e41ed72e72.png",
+    "static/media/glitch.jpg": "/siya-portfolio/static/media/glitch.4024012a5171c0869ac4.jpg",
     "static/media/coffeeavacado.jpeg": "/siya-portfolio/static/media/coffeeavacado.58b78e12f3261327c4d2.jpeg",
     "static/media/Paris.jpeg": "/siya-portfolio/static/media/Paris.f849ca227c71f4d2178b.jpeg",
     "static/media/pets.png": "/siya-portfolio/static/media/pets.3f34c6388383e34aa859.png",
@@ -58,11 +59,11 @@
     "static/media/youtube.png": "/siya-portfolio/static/media/youtube.9c1034a72f35a85893bb.png",
     "index.html": "/siya-portfolio/index.html",
     "main.3484e2de.css.map": "/siya-portfolio/static/css/main.3484e2de.css.map",
-    "main.57ecb6ea.js.map": "/siya-portfolio/static/js/main.57ecb6ea.js.map",
+    "main.593d92e5.js.map": "/siya-portfolio/static/js/main.593d92e5.js.map",
     "453.99938a43.chunk.js.map": "/siya-portfolio/static/js/453.99938a43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3484e2de.css",
-    "static/js/main.57ecb6ea.js"
+    "static/js/main.593d92e5.js"
   ]
 }
