@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/siya-portfolio/static/css/main.3484e2de.css",
-    "main.js": "/siya-portfolio/static/js/main.593d92e5.js",
+    "main.css": "/siya-portfolio/static/css/main.e89eaa68.css",
+    "main.js": "/siya-portfolio/static/js/main.e84e74cb.js",
     "static/js/453.99938a43.chunk.js": "/siya-portfolio/static/js/453.99938a43.chunk.js",
     "static/media/lemon.gif": "/siya-portfolio/static/media/lemon.e34b817117f1816ea189.gif",
     "static/media/girl.gif": "/siya-portfolio/static/media/girl.60b50f9293a3486f82ef.gif",
@@ -50,20 +50,20 @@
     "static/media/pop.jpg": "/siya-portfolio/static/media/pop.95d7ee709b2d9b1a3856.jpg",
     "static/media/dog.jpeg": "/siya-portfolio/static/media/dog.e99d9727fc9b6fcd89df.jpeg",
     "static/media/billiewater.jpeg": "/siya-portfolio/static/media/billiewater.d693dc6a449f5dbc6025.jpeg",
+    "static/media/logo.png": "/siya-portfolio/static/media/logo.9bd18d5217d6111ad7a5.png",
     "static/media/cancer.png": "/siya-portfolio/static/media/cancer.6c82b089669942816706.png",
     "static/media/rightImg.png": "/siya-portfolio/static/media/rightImg.60eb546788311dfd6593.png",
     "static/media/rfw.png": "/siya-portfolio/static/media/rfw.58f14d68ccc71b599264.png",
     "static/media/blue.jpeg": "/siya-portfolio/static/media/blue.d9c156984dd0bff3ec3f.jpeg",
-    "static/media/logo.png": "/siya-portfolio/static/media/logo.9f2af90aa580952b9884.png",
     "static/media/3Horses.jpg": "/siya-portfolio/static/media/3Horses.333d35c7968193deb1b1.jpg",
     "static/media/youtube.png": "/siya-portfolio/static/media/youtube.9c1034a72f35a85893bb.png",
     "index.html": "/siya-portfolio/index.html",
-    "main.3484e2de.css.map": "/siya-portfolio/static/css/main.3484e2de.css.map",
-    "main.593d92e5.js.map": "/siya-portfolio/static/js/main.593d92e5.js.map",
+    "main.e89eaa68.css.map": "/siya-portfolio/static/css/main.e89eaa68.css.map",
+    "main.e84e74cb.js.map": "/siya-portfolio/static/js/main.e84e74cb.js.map",
     "453.99938a43.chunk.js.map": "/siya-portfolio/static/js/453.99938a43.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3484e2de.css",
-    "static/js/main.593d92e5.js"
+    "static/css/main.e89eaa68.css",
+    "static/js/main.e84e74cb.js"
   ]
 }
